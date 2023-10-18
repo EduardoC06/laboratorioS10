@@ -1,0 +1,77 @@
+Ejercicio 1
+Elaborar un programa que calcule el costo de producción de un artículo, teniendo como
+datos la descripción y el número de unidades producidas. El costo se calcula multiplicando
+el número de unidades producidas por un factor de costo de materiales de 3.5 y sumándole
+al producto un costo fijo de 10700.
+
+unidadesProducidas=""
+costo=unidadesProducidas*3.5
+suma=costo+10700
+
+costoP= "El costo de produccion es: " + suma
+
+
+
+
+Ejercicio 2
+Elaborar un programa que calcule el costo de un terreno cuadrado o rectangular, 
+teniendo como datos la anchura y la longitud en metros, y el costo del metro 
+cuadrado.
+
+Anchura=x
+Longitud=x
+
+costo=12
+
+
+resultado: Anchura*longitud
+
+costoxM=resultado*costo
+
+
+
+
+
+Ejercicio 3
+Elaborar un programa que lea una cantidad de horas e imprima su equivalente en 
+minutos, segundos y días.
+
+hora=x
+
+min= hora*60
+
+segu=hora*3600
+
+días=hora/24
+
+
+C="Cantidad de horas: " + hora + "dias: " + dias + "minutos: "  + min + "segundos: " + segu
+
+
+
+
+
+Ejercicio 4
+La velocidad de la luz es 300,000 km por segundo. Elaborar un programa que 
+lea un tiempo en segundos y muestre la distancia que recorre en dicho tiempo.
+
+TiempoXsegundo="x"
+vel=300,000km
+
+resultado=vel*tiempoXsegundo
+
+
+
+
+
+Ejercicio 5
+Hacer un algoritmo que obtenga e imprima el valor de Y a partir de la ecuación. Se debe de
+proporcionar el valor de x. y= 3x2 + 7x - 15
+
+y=  3*2 + 7x - 15
+
+resultadp="Resultado de la ecuacion: " + y
+
+
+
+
